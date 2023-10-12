@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/auth/[...nextauth]": {},
+    "/add-product": {},
+    "/cart": {}
+  }
+}
