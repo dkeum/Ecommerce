@@ -1,29 +1,31 @@
 "use client";
 
 import { ComponentProps } from "react";
-
-// @ts-expect-error
-import { experimental_useFormState as useFormStatus } from "react-dom"; 
+// ts-ignore because experimental_useFormStatus is not in the types
+// @ts-ignore
+import { experimental_useFormStatus as useFormStatus } from "react-dom";
 
 type FormSubmitButtonProps = {
-    children: React.ReactNode,
-    className?: string,
-} & ComponentProps<"button">
+  children: React.ReactNode;
+  className?: string;
+} & ComponentProps<"button">;
 
-const FormSubmitButton = ({children, className, ...props} : FormSubmitButtonProps) => 
-{
-    const {pending} = useFormStatus();
+export default function FormSubmitButton({
+  children,
+  className,
+  ...props
+}: FormSubmitButtonProps) {
+  const { pending } = useFormStatus();
 
-    return(
-        <button 
-            {...props}
-            className={`btn btn-primary ${className}`}
-            type="submit"
-            disabled={pending}
-        >
-            {pending && <span className="loading loading-spinner"/>}
-            {children}</button>
-    );
+  return (
+    <button
+      {...props}
+      className={`btn-primary btn ${className}`}
+      type="submit"
+      disabled={pending}
+    >
+      {pending && <span className="loading loading-spinner" />}
+      {children}
+    </button>
+  );
 }
-
-export default FormSubmitButton;

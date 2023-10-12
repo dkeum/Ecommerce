@@ -1,11 +1,13 @@
 {
   "pages": {
-    "/not-found": [
+    "/page": [
       "static/chunks/webpack-5d68b2bad1e0e8a6.js",
       "static/chunks/bf6a786c-326d7e39e945965e.js",
       "static/chunks/26-f13f7ac7d298bc7e.js",
       "static/chunks/main-app-f6939118a7db64f0.js",
-      "static/chunks/app/not-found-1abb9927deeb29b3.js"
+      "static/chunks/964-3be0115835b8ea78.js",
+      "static/chunks/724-b17c80fe34fbd9db.js",
+      "static/chunks/app/page-528f731f70b2c0c9.js"
     ],
     "/layout": [
       "static/chunks/webpack-5d68b2bad1e0e8a6.js",
@@ -17,6 +19,13 @@
       "static/chunks/637-a100b225ab29671f.js",
       "static/css/b01b2c14792bc140.css",
       "static/chunks/app/layout-cf23712d127985b1.js"
+    ],
+    "/not-found": [
+      "static/chunks/webpack-5d68b2bad1e0e8a6.js",
+      "static/chunks/bf6a786c-326d7e39e945965e.js",
+      "static/chunks/26-f13f7ac7d298bc7e.js",
+      "static/chunks/main-app-f6939118a7db64f0.js",
+      "static/chunks/app/not-found-1abb9927deeb29b3.js"
     ],
     "/error": [
       "static/chunks/webpack-5d68b2bad1e0e8a6.js",
@@ -31,15 +40,6 @@
       "static/chunks/26-f13f7ac7d298bc7e.js",
       "static/chunks/main-app-f6939118a7db64f0.js",
       "static/chunks/app/loading-8e52cbb8b1b19762.js"
-    ],
-    "/page": [
-      "static/chunks/webpack-5d68b2bad1e0e8a6.js",
-      "static/chunks/bf6a786c-326d7e39e945965e.js",
-      "static/chunks/26-f13f7ac7d298bc7e.js",
-      "static/chunks/main-app-f6939118a7db64f0.js",
-      "static/chunks/964-3be0115835b8ea78.js",
-      "static/chunks/724-b17c80fe34fbd9db.js",
-      "static/chunks/app/page-528f731f70b2c0c9.js"
     ],
     "/search/page": [
       "static/chunks/webpack-5d68b2bad1e0e8a6.js",
@@ -64,7 +64,7 @@
       "static/chunks/bf6a786c-326d7e39e945965e.js",
       "static/chunks/26-f13f7ac7d298bc7e.js",
       "static/chunks/main-app-f6939118a7db64f0.js",
-      "static/chunks/app/add-product/page-58a86249c5cdd9c7.js"
+      "static/chunks/app/add-product/page-356e9707aa1c9416.js"
     ],
     "/products/[id]/page": [
       "static/chunks/webpack-5d68b2bad1e0e8a6.js",
