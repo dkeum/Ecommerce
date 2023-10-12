@@ -3,7 +3,7 @@
 import { ComponentProps } from "react";
 
 // @ts-expect-error
-import { experimenta_useFormState as useFormStatus } from "react-dom"; 
+import { experimental_useFormState as useFormStatus } from "react-dom"; 
 
 type FormSubmitButtonProps = {
     children: React.ReactNode,
