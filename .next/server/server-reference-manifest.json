@@ -1,35 +1,19 @@
 {
   "node": {
-    "7867b6a4ab85133457003e243c169f9226d80a04": {
+    "970cd900fe936e3547809497bf28a64992a0824c": {
       "workers": {
-        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Cdaniel-ecommerce%5C%5Csrc%5C%5Capp%5C%5CNavbar%5C%5CNavbar.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
-        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Cdaniel-ecommerce%5C%5Csrc%5C%5Capp%5C%5Cproducts%5C%5C%5Bid%5D%5C%5Cactions.ts%22%2C%5B%22incrementProductQuantity%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Cdaniel-ecommerce%5C%5Csrc%5C%5Capp%5C%5CNavbar%5C%5CNavbar.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
-        "app/add-product/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Cdaniel-ecommerce%5C%5Csrc%5C%5Capp%5C%5Cadd-product%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Cdaniel-ecommerce%5C%5Csrc%5C%5Capp%5C%5CNavbar%5C%5CNavbar.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
-        "app/not-found": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Cdaniel-ecommerce%5C%5Csrc%5C%5Capp%5C%5CNavbar%5C%5CNavbar.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
-        "app/search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Cdaniel-ecommerce%5C%5Csrc%5C%5Capp%5C%5CNavbar%5C%5CNavbar.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
-      },
-      "layer": {
-        "app/page": "rsc",
-        "app/products/[id]/page": "rsc",
-        "app/add-product/page": "rsc",
-        "app/not-found": "rsc",
-        "app/search/page": "rsc"
-      }
-    },
-    "5b71844707445898a00a4ae3ff40a10d612e44c3": {
-      "workers": {
-        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Cdaniel-ecommerce%5C%5Csrc%5C%5Capp%5C%5Cproducts%5C%5C%5Bid%5D%5C%5Cactions.ts%22%2C%5B%22incrementProductQuantity%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Cdaniel-ecommerce%5C%5Csrc%5C%5Capp%5C%5CNavbar%5C%5CNavbar.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Csrc%5C%5Capp%5C%5Cproducts%5C%5C%5Bid%5D%5C%5Cactions.ts%22%2C%5B%22incrementProductQuantity%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Csrc%5C%5Capp%5C%5CNavbar%5C%5CNavbar.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
         "app/products/[id]/page": "rsc"
       }
     },
-    "c5eb68c85f898babe3884e688c4e83e2f59e32d8": {
+    "01b4fb4bef01706608c329dc15dd726d9cf2470c": {
       "workers": {
-        "app/add-product/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Cdaniel-ecommerce%5C%5Csrc%5C%5Capp%5C%5Cadd-product%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Cdaniel-ecommerce%5C%5Csrc%5C%5Capp%5C%5CNavbar%5C%5CNavbar.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Csrc%5C%5Capp%5C%5Cproducts%5C%5C%5Bid%5D%5C%5Cactions.ts%22%2C%5B%22incrementProductQuantity%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5C16047%5C%5CDesktop%5C%5CFrontend%5C%5Cfullstack%5C%5Ce-commerce%5C%5Csrc%5C%5Capp%5C%5CNavbar%5C%5CNavbar.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/add-product/page": "rsc"
+        "app/products/[id]/page": "rsc"
       }
     }
   },

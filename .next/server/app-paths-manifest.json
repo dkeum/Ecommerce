@@ -1,6 +1,5 @@
 {
-  "/page": "app/page.js",
-  "/add-product/page": "app/add-product/page.js",
-  "/search/page": "app/search/page.js",
-  "/products/[id]/page": "app/products/[id]/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/products/[id]/page": "app/products/[id]/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js"
 }
