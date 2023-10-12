@@ -1,9 +1,8 @@
 "use client";
 
 import { ComponentProps } from "react";
-// ts-ignore because experimental_useFormStatus is not in the types
-// @ts-ignore
-import { experimental_useFormStatus as useFormStatus } from "react-dom";
+
+import { experimental_useFormStatus as useFormStatus } from 'react-dom';
 
 type FormSubmitButtonProps = {
   children: React.ReactNode;
